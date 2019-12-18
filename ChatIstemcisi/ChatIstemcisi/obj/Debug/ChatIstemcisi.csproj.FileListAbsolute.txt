@@ -1,0 +1,39 @@
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.dll
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.pdb
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.cache
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.CoreCompileInputs.cache
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.CopyComplete
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.dll
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.pdb
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.CopyComplete
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\user\Desktop\deneme\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.exe
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\bin\Debug\ChatIstemcisi.pdb
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.dll
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\bin\Debug\ASMESLIB.pdb
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmAna.resources
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmGiris.resources
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.frmOzelSohbet.resources
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.Properties.Resources.resources
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.csproj.CopyComplete
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.exe
+C:\Users\user\source\repos\Multi Chat App\ChatIstemcisi\ChatIstemcisi\obj\Debug\ChatIstemcisi.pdb

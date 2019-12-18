@@ -1,0 +1,12 @@
+C:\Users\ecanturk1\Desktop\Semih Proje\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.dll
+C:\Users\ecanturk1\Desktop\Semih Proje\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.pdb
+C:\Users\ecanturk1\Desktop\Semih Proje\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.csprojAssemblyReference.cache
+C:\Users\ecanturk1\Desktop\Semih Proje\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.csproj.CoreCompileInputs.cache
+C:\Users\ecanturk1\Desktop\Semih Proje\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.dll
+C:\Users\ecanturk1\Desktop\Semih Proje\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.pdb
+C:\Users\user\Desktop\deneme\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.dll
+C:\Users\user\Desktop\deneme\ASMESLIB\ASMESLIB\bin\Debug\ASMESLIB.pdb
+C:\Users\user\Desktop\deneme\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.csprojAssemblyReference.cache
+C:\Users\user\Desktop\deneme\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\deneme\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.dll
+C:\Users\user\Desktop\deneme\ASMESLIB\ASMESLIB\obj\Debug\ASMESLIB.pdb

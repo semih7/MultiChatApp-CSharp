@@ -1,0 +1,23 @@
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\bin\Debug\ChatSunucusu.exe
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\bin\Debug\ChatSunucusu.pdb
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\bin\Debug\ASMESLIB.dll
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\bin\Debug\ASMESLIB.pdb
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.csprojAssemblyReference.cache
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.frmAna.resources
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.Properties.Resources.resources
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.csproj.GenerateResource.cache
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.csproj.CoreCompileInputs.cache
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.csproj.CopyComplete
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.exe
+C:\Users\ecanturk1\Desktop\Semih Proje\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.pdb
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\bin\Debug\ChatSunucusu.exe
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\bin\Debug\ChatSunucusu.pdb
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\bin\Debug\ASMESLIB.dll
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\bin\Debug\ASMESLIB.pdb
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.frmAna.resources
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.Properties.Resources.resources
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.csproj.CopyComplete
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.exe
+C:\Users\user\Desktop\deneme\ChatSunucusu\ChatSunucusu\obj\Debug\ChatSunucusu.pdb
